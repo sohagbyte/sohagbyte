@@ -1,15 +1,15 @@
 <h1 align="center">Hello There👋, I'm Sohag Hossain</h1>
 <h3 align="center">A Passionate Software Developer from Bangladeh!!</h3>
 
-- 🔭 I’m currently working on [Electroo](https://github.com/sohagbyte/electroo_edtech)
+- 🔭 I’m currently working on **NodeJS**
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [sohagbyte.github.io](sohagbyte.github.io)
+- 👨‍💻 All of my projects are available at **sohagbyte.github.io**
 
 - 📝 I regularly write articles on [sohagwrites.blogspot.com](sohagwrites.blogspot.com)
 
-- 💬 Ask me about **Web Dev, Cyber Security**
+- 💬 Ask me about **Web Dev, Cyber Security, Tech**
 
 - 📫 How to reach me **sohagbyte@gmail.com**
 
