@@ -1,9 +1,9 @@
 <h1 align="center">Hello There👋, I'm Sohag Hossain</h1>
 <h3 align="center">A Passionate Software Developer from Bangladeh!!</h3>
 
-- 🔭 I’m currently working on **NodeJS**
+- 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at **sohagbyte.github.io**
 
