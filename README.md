@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=030C10&center=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sohag+Hossain!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=030C10&center=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sohag+Hossain!)](https://git.io/typing-svg)
 
 <h3 align="center">Passionate Software Developer with a love for turning ideas into interactive and efficient digital experiences.</h3>
 
@@ -40,5 +40,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagbyte&" alt="sohagbyte" /></p><br>
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/sohagbyte"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohagbyte" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sohagthe00y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohagbyte" /></a></p><br><br>
 
