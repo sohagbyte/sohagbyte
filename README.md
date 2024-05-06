@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sohag Hossain</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=030C10&center=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sohag+Hossain!)](https://git.io/typing-svg)
+
 <h3 align="center">Passionate Software Developer with a love for turning ideas into interactive and efficient digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohagbyte&label=Profile%20views&color=0e75b6&style=flat" alt="sohagbyte" /> </p>
