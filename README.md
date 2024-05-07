@@ -29,8 +29,8 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,mui,javascript,typescript,react,redux,git,github,figma,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=notion,markdown" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,mui,javascript,typescript,react,redux,next,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=notion,markdown,git,github,figma,vscode" /><br>
 </div><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohagbyte&show_icons=true&locale=en&layout=compact" alt="sohagbyte" /></p>
