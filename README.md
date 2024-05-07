@@ -38,7 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohagbyte&show_icons=true&locale=en" alt="sohagbyte" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagbyte&" alt="sohagbyte" /></p><br>
-
-<h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/sohagthe00y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohagbyte" /></a></p><br><br>
-
