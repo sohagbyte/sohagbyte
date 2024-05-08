@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **EESKUL**
 
-- 👨‍💻 All of my projects are available at [https://sohagbyte.github.io](https://sohagbyte.github.io)
+- 👨‍💻 All of my projects are available at [https://sohagbyte.github.io](https://sohagbyte.github.io/portfolio)
 
 - 📝 I regularly write articles on [https://sohagbyte.hashnode.dev](https://sohagbyte.hashnode.dev)
 
