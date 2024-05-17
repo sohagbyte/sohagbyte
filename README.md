@@ -15,6 +15,7 @@
 - 💬 Ask me about **Web Dev, Frontend, Backend**
 
 - 📫 How to reach me **sohagbyte@gmail.com**
+- ⚡ Fun Fact is that:  **I want to travel the whole world**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +31,7 @@
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,mui,javascript,typescript,react,redux,next,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=notion,markdown,git,github,figma,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=jest,npm,notion,markdown,git,github,figma,vscode" /><br>
 </div><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohagbyte&show_icons=true&locale=en&layout=compact" alt="sohagbyte" /></p>
