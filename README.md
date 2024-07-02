@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohagbyte&label=Profile%20views&color=0e75b6&style=flat" alt="sohagbyte" /> </p>
 
-- 🔭 I’m currently working on **EESKUL**
+- 🔭 I’m currently working on **ByteFever**
 
 - 👨‍💻 All of my projects are available at [SohagByte Portfolio](https://sohagbyte.github.io/portfolio)
 
-- 📝 I regularly write articles on [SohagByte Blog](https://sohagbyte.hashnode.dev)
+- 📝 I regularly write articles on [Blogs](https://sohagbyte.hashnode.dev)
 
 - 💬 Ask me about **Web Dev, Frontend, Backend**
 
