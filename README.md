@@ -1,7 +1,7 @@
 <div style="background color: #e5eaf5">
   <div align="center">
   
-  # Hi! I'm Sohag Hossain👋
+  # Hi! I'm Sohag Hossain AKA SohagByte
   
   <b>Turning Caffeine into code with passion for breaking security<b>
   
