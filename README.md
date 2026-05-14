@@ -15,11 +15,9 @@
   
   <h2 align="center">About Me</h2>
   
-  - I have **4** public repositories on GitHub
-  - Based from Dhaka, Bangladesh
-  - **1** total stars earned across my projects
-  - **8** followers · **10** following
-  - Blog/portfolio: [https://sohagbyte.hashnode.dev](https://sohagbyte.hashnode.dev)
-  ⚡ Fun fact: I trust logs more than people.
+  🧑‍💻 Cybersecurity Enthusiast </br>
+  🔐 Learning how systems work, break, and stay secure  </br>
+  ⚡ Fueled by caffeine and curiosity </br>
+  ⚡ Fun fact: I trust logs more than people. </br>
 
 </div>
